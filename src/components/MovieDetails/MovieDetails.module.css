@@ -1,0 +1,30 @@
+.movieDetails {
+  padding: 20px;
+  background-color: #f8f9fa;
+}
+
+h1 {
+  color: #343a40;
+}
+
+p {
+  color: #495057;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
