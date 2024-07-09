@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/rikki-movie-search/static/css/main.89d89278.css",
-    "main.js": "/rikki-movie-search/static/js/main.15865162.js",
-    "static/css/781.20b65ec8.chunk.css": "/rikki-movie-search/static/css/781.20b65ec8.chunk.css",
-    "static/js/781.54992deb.chunk.js": "/rikki-movie-search/static/js/781.54992deb.chunk.js",
-    "static/css/703.46b05ef6.chunk.css": "/rikki-movie-search/static/css/703.46b05ef6.chunk.css",
-    "static/js/703.fe21ad75.chunk.js": "/rikki-movie-search/static/js/703.fe21ad75.chunk.js",
-    "static/css/509.a574fdd6.chunk.css": "/rikki-movie-search/static/css/509.a574fdd6.chunk.css",
-    "static/js/509.739021aa.chunk.js": "/rikki-movie-search/static/js/509.739021aa.chunk.js",
+    "main.css": "/rikki-movie-search/static/css/main.8a3e121f.css",
+    "main.js": "/rikki-movie-search/static/js/main.e975d88d.js",
+    "static/css/781.c0885dc3.chunk.css": "/rikki-movie-search/static/css/781.c0885dc3.chunk.css",
+    "static/js/781.b1a9de3c.chunk.js": "/rikki-movie-search/static/js/781.b1a9de3c.chunk.js",
+    "static/css/703.822ba2a4.chunk.css": "/rikki-movie-search/static/css/703.822ba2a4.chunk.css",
+    "static/js/703.a3491d17.chunk.js": "/rikki-movie-search/static/js/703.a3491d17.chunk.js",
+    "static/css/509.92406cd1.chunk.css": "/rikki-movie-search/static/css/509.92406cd1.chunk.css",
+    "static/js/509.f29cba17.chunk.js": "/rikki-movie-search/static/js/509.f29cba17.chunk.js",
     "static/css/900.774fbed8.chunk.css": "/rikki-movie-search/static/css/900.774fbed8.chunk.css",
     "static/js/900.1daa72c6.chunk.js": "/rikki-movie-search/static/js/900.1daa72c6.chunk.js",
     "static/css/457.a79ad352.chunk.css": "/rikki-movie-search/static/css/457.a79ad352.chunk.css",
     "static/js/457.2af00218.chunk.js": "/rikki-movie-search/static/js/457.2af00218.chunk.js",
     "static/js/759.b031ea13.chunk.js": "/rikki-movie-search/static/js/759.b031ea13.chunk.js",
     "index.html": "/rikki-movie-search/index.html",
-    "main.89d89278.css.map": "/rikki-movie-search/static/css/main.89d89278.css.map",
-    "main.15865162.js.map": "/rikki-movie-search/static/js/main.15865162.js.map",
-    "781.20b65ec8.chunk.css.map": "/rikki-movie-search/static/css/781.20b65ec8.chunk.css.map",
-    "781.54992deb.chunk.js.map": "/rikki-movie-search/static/js/781.54992deb.chunk.js.map",
-    "703.46b05ef6.chunk.css.map": "/rikki-movie-search/static/css/703.46b05ef6.chunk.css.map",
-    "703.fe21ad75.chunk.js.map": "/rikki-movie-search/static/js/703.fe21ad75.chunk.js.map",
-    "509.a574fdd6.chunk.css.map": "/rikki-movie-search/static/css/509.a574fdd6.chunk.css.map",
-    "509.739021aa.chunk.js.map": "/rikki-movie-search/static/js/509.739021aa.chunk.js.map",
+    "main.8a3e121f.css.map": "/rikki-movie-search/static/css/main.8a3e121f.css.map",
+    "main.e975d88d.js.map": "/rikki-movie-search/static/js/main.e975d88d.js.map",
+    "781.c0885dc3.chunk.css.map": "/rikki-movie-search/static/css/781.c0885dc3.chunk.css.map",
+    "781.b1a9de3c.chunk.js.map": "/rikki-movie-search/static/js/781.b1a9de3c.chunk.js.map",
+    "703.822ba2a4.chunk.css.map": "/rikki-movie-search/static/css/703.822ba2a4.chunk.css.map",
+    "703.a3491d17.chunk.js.map": "/rikki-movie-search/static/js/703.a3491d17.chunk.js.map",
+    "509.92406cd1.chunk.css.map": "/rikki-movie-search/static/css/509.92406cd1.chunk.css.map",
+    "509.f29cba17.chunk.js.map": "/rikki-movie-search/static/js/509.f29cba17.chunk.js.map",
     "900.774fbed8.chunk.css.map": "/rikki-movie-search/static/css/900.774fbed8.chunk.css.map",
     "900.1daa72c6.chunk.js.map": "/rikki-movie-search/static/js/900.1daa72c6.chunk.js.map",
     "457.a79ad352.chunk.css.map": "/rikki-movie-search/static/css/457.a79ad352.chunk.css.map",
@@ -29,7 +29,7 @@
     "759.b031ea13.chunk.js.map": "/rikki-movie-search/static/js/759.b031ea13.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.89d89278.css",
-    "static/js/main.15865162.js"
+    "static/css/main.8a3e121f.css",
+    "static/js/main.e975d88d.js"
   ]
 }
