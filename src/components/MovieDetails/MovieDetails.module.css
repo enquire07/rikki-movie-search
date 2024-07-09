@@ -1,4 +1,4 @@
-.movieDetails {
+/* .movieDetails {
   padding: 20px;
   background-color: #f8f9fa;
 }
@@ -26,5 +26,38 @@ a {
 }
 
 a:hover {
+  text-decoration: underline;
+} */
+.movieDetails {
+  padding: 20px;
+}
+
+.movieDetails h1 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.poster {
+  max-width: 300px;
+  height: auto;
+  border-radius: 10px;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: blue;
+}
+
+nav a:hover {
   text-decoration: underline;
 }

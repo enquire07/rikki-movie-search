@@ -1,4 +1,4 @@
-.home {
+/* .home {
   padding: 20px;
   background-color: #f8f9fa;
 }
@@ -23,4 +23,31 @@ a {
 
 a:hover {
   text-decoration: underline;
+} */
+.home {
+  padding: 20px;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+.home h1 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.movieItem {
+  list-style: none;
+  margin-bottom: 20px;
+}
+
+.thumbnail {
+  max-width: auto;
+  height: auto;
+  border-radius: 10px;
+}
+
+.movieItem a {
+  text-decoration: none;
+  color: inherit;
 }
